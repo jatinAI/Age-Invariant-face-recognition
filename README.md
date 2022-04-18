@@ -1,2 +1,1 @@
-# Age-Invariant-face-recognition
-Deep Learning Project offered in BITS Pilani
+Deep Learning class Project based on using different feature extractors algorithms like SURF, SIFT , Akaze , ORB etc, The data was collected by the students of BITS Pilani enrolled in the Deep Learning course . The data contains the images of different celebrities at different ages by taking images from different movies done by them at different ages. 
